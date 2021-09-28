@@ -1,0 +1,17 @@
+Version 1:
+
+- Layout
+1. Big main number center screen
+2. One button on the left (odd)
+3. One button on the right (even)
+4. Message on the top center
+5. Message on bottom center (hidden by default) + button
+
+- Functional
+1. Number is randomly generated when the application starts
+2. User is greeted with a message and instructions
+3. User can pick if the generated number is odd or even
+4. If user chooses correctly, a new number is generated and a positive message is displayed
+5. If user chooses incorrectly, a negative message is displayed and user is asked if they want to play again
+
+
